@@ -9,3 +9,75 @@ Enter your domain in the search box to get Docks (Google, Shodan and Github) for
   <li><a href="https://github.com/aashishsec/MyDocks" >MyDocks</a></li>
 </ul>
 
+<h4>HttpAlive</h4>
+HttpAlive is a tool designed to efficiently probe for alive subdomains and Urls from a provided list.
+<ul>
+  <li><a href="https://github.com/aashishsec/httpAlive" ></a>HttpAlive</li>
+</ul>
+
+<h4>DirBrute</h4>
+DirBrute is a tool designed to efficiently probe for alive endpoints from a provided wordlist list.
+<ul>
+  <li><a href="https://github.com/aashishsec/dirBrute" >dirBrute</a></li>
+</ul>
+<h4>portProbe</h4>
+
+<ul>
+  <li><a href="https://github.com/aashishsec/portProbe" >portProbe</a></li>
+</ul>
+
+<h4></h4>
+portProbe is a tool designed to efficiently probe for open ports. It will take both IP Address and Subdomains.
+<ul>
+  <li><a href="https://github.com/aashishsec/portProbe" ></a></li>
+</ul>
+<h4>JS.Scanner </h4>
+Give list of JS file URLs to find Sensitive Files like API keys, Emails, Phone No, URLs etc.....
+<ul>
+  <li><a href="https://github.com/aashishsec/JS.Scanner" ></a>JS.Scanner </li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
+<h4></h4>
+
+<ul>
+  <li><a href="" ></a></li>
+</ul>
