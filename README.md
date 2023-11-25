@@ -38,10 +38,7 @@ pyWebCrawler can be used to index the content of website, mostly focused mainly 
   <li><a href="https://github.com/aashishsec/pyWebCrawler" >pyWebCrawler</a></li>
 </ul>
 <h2>Brute Forcer's</h2>
-<h4></h4>
-<ul>
-  <li><a href="" ></a></li>
-</ul>
+
 <h4>pdfPasswordCracker </h4>
 Based on the given wordlist it will try to match the hash of password that was encrypted by pdf.
 <ul>
@@ -62,23 +59,30 @@ FTP brute forcer using asynchronous programming, It is a tool designed to find t
 <ul>
   <li><a href="https://github.com/aashishsec/FTP-Bruteforcer" >FTP-Bruteforcer Public</a></li>
 </ul>
-<h4></h4>
 
+<h2> Malware </h2>
+<h4>pyBackDoor</h4>
+This is the python code used as backdoor that can be embedded into any files like videos and pdfs etc..
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/pyBackDoor" >pyBackDoor</a></li>
 </ul>
-<h4></h4>
-
+<h4>Key-Logger</h4>
+It is program that records every keystroke made on a computer. 
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/Key-Logger" >Key-Logger</a></li>
 </ul>
-<h4></h4>
-
+<h4>pyReverseShell</h4>
+It  is a connection that allows an attacker to control a computer remotely. 
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/pyReverseShell" >pyReverseShell</a></li>
 </ul>
-<h4></h4>
+<h2>Games</h2>
+<h4>pyPongGame</h4>
 
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/pyPongGame" >pyPongGame</a></li>
+</ul>
+<h4>pyTikTaKToe</h4>
+<ul>
+  <li><a href="https://github.com/aashishsec/pyTikTaKToe" >pyTikTaKToe</a></li>
 </ul>
