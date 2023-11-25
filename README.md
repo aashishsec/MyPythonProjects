@@ -29,13 +29,13 @@ portProbe is a tool designed to efficiently probe for open ports. It will take b
 <h4>JS.Scanner </h4>
 Give list of JS file URLs to find Sensitive Files like API keys, Emails, Phone No, URLs etc.....
 <ul>
-  <li><a href="https://github.com/aashishsec/JS.Scanner" ></a>JS.Scanner </li>
+  <li><a href="https://github.com/aashishsec/JS.Scanner" >JS.Scanner</a> </li>
 </ul>
 
 <h4>pyWebCrawler</h4>
 pyWebCrawler can be used to index the content of website, mostly focused mainly on subdomians,urls and js files.
 <ul>
-  <li><a href="https://github.com/aashishsec/pyWebCrawler" ></a>pyWebCrawler</li>
+  <li><a href="https://github.com/aashishsec/pyWebCrawler" >pyWebCrawler</a></li>
 </ul>
 
 <h4></h4>
