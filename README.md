@@ -5,8 +5,7 @@
 <h3>Web Recon</h3>
 <br>
 <h4>BugBounty Docks</h4>
-
-```
+```bash
 Enter your domain in the search box to get Docks (Google, Shodan and Github) for bug bounty.
 ```
 <ul>
