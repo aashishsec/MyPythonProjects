@@ -6,7 +6,7 @@
 <br>
 <h4>BugBounty Docks</h4>
 ```bash
-Enter your domain in the search box to get Docks (Google, Shodan and Github) for bug bounty.
+- Enter your domain in the search box to get Docks (Google, Shodan and Github) for bug bounty.
 ```
 <ul>
   <li><a href="https://github.com/aashishsec/MyDocks" >MyDocks</a></li>
