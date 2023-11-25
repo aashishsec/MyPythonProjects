@@ -12,7 +12,7 @@ Enter your domain in the search box to get Docks (Google, Shodan and Github) for
 <h4>HttpAlive</h4>
 HttpAlive is a tool designed to efficiently probe for alive subdomains and Urls from a provided list.
 <ul>
-  <li><a href="https://github.com/aashishsec/httpAlive" ></a>HttpAlive</li>
+  <li><a href="https://github.com/aashishsec/httpAlive" >HttpAlive</a></li>
 </ul>
 
 <h4>DirBrute</h4>
