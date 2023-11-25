@@ -37,30 +37,30 @@ pyWebCrawler can be used to index the content of website, mostly focused mainly 
 <ul>
   <li><a href="https://github.com/aashishsec/pyWebCrawler" >pyWebCrawler</a></li>
 </ul>
-
+<h2>Brute Forcer's</h2>
 <h4></h4>
 <ul>
   <li><a href="" ></a></li>
 </ul>
-<h4></h4>
-
+<h4>pdfPasswordCracker </h4>
+Based on the given wordlist it will try to match the hash of password that was encrypted by pdf.
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/pdfPasswordCracker" >pdfPasswordCracker </a></li>
 </ul>
-<h4></h4>
-
+<h4>Hash-Cracker </h4>
+This script will crackes the password hash based on the given password list.
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/Hash-Cracker" >Hash-Cracker </a></li>
 </ul>
-<h4></h4>
-
+<h4>SSH-Bruteforcer </h4>
+SSH brute forcer using asynchronous programming, It is a tool designed to find the password for given SSH username.
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/SSH-Bruteforcer" >SSH-Bruteforcer </a></li>
 </ul>
-<h4></h4>
-
+<h4>FTP-Bruteforcer Public</h4>
+FTP brute forcer using asynchronous programming, It is a tool designed to find the password for given FTP username.
 <ul>
-  <li><a href="" ></a></li>
+  <li><a href="https://github.com/aashishsec/FTP-Bruteforcer" >FTP-Bruteforcer Public</a></li>
 </ul>
 <h4></h4>
 
